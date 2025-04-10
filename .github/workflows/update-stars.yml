@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update README with Starred Repositories
-        uses: mxvsh/starkit@v1.3.2
+        uses: mxvsh/starkit@v2.4.1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-username: ${{ github.actor }}
+          build-web: true
