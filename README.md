@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 9 repositories across 6 languages*
+*Total: 10 repositories across 7 languages*
 
 ### C (1)
 
@@ -27,6 +27,10 @@
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs. 
 - [ueabu/RaspberryPi-Spotify-Controller](https://github.com/ueabu/RaspberryPi-Spotify-Controller) - Python source code for Spotify playback controls from Raspberry Pi
 - [BlueNexus/Py2Pseudo](https://github.com/BlueNexus/Py2Pseudo) - A simple python to pseudocode converter.
+
+### TypeScript (1)
+
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ### Unknown (1)
 
