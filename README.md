@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 10 repositories across 7 languages*
+*Total: 11 repositories across 7 languages*
 
 ### C (1)
 
@@ -28,8 +28,9 @@
 - [ueabu/RaspberryPi-Spotify-Controller](https://github.com/ueabu/RaspberryPi-Spotify-Controller) - Python source code for Spotify playback controls from Raspberry Pi
 - [BlueNexus/Py2Pseudo](https://github.com/BlueNexus/Py2Pseudo) - A simple python to pseudocode converter.
 
-### TypeScript (1)
+### TypeScript (2)
 
+- [windbase/windbase](https://github.com/windbase/windbase) - Open-source, visual builder for TailwindCSS with several in-built plugins. Supports DaisyUI and Flowbite.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ### Unknown (1)
