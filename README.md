@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 11 repositories across 7 languages*
+*Total: 12 repositories across 8 languages*
 
 ### C (1)
 
@@ -17,6 +17,10 @@
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [architg-5501/Safescape](https://github.com/architg-5501/Safescape) - Safescape : a woman safety app
+
+### Go (1)
+
+- [zserge/pennybase](https://github.com/zserge/pennybase) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
 
 ### Jupyter Notebook (1)
 
