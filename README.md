@@ -34,7 +34,7 @@
 
 ### TypeScript (2)
 
-- [windbase/windbase](https://github.com/windbase/windbase) - Open-source, visual builder for TailwindCSS with several in-built plugins. Supports DaisyUI and Flowbite.
+- [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ### Unknown (1)
