@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 14 repositories across 9 languages*
+*Total: 15 repositories across 9 languages*
 
 ### C (1)
 
@@ -36,8 +36,9 @@
 
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 
-### TypeScript (2)
+### TypeScript (3)
 
+- [spandan-kumar/knest](https://github.com/spandan-kumar/knest) - A Next.js application for meeting processing
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
