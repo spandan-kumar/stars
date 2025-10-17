@@ -26,8 +26,9 @@
 
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 
-### Python (3)
+### Python (4)
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs. 
 - [ueabu/RaspberryPi-Spotify-Controller](https://github.com/ueabu/RaspberryPi-Spotify-Controller) - Python source code for Spotify playback controls from Raspberry Pi
 - [BlueNexus/Py2Pseudo](https://github.com/BlueNexus/Py2Pseudo) - A simple python to pseudocode converter.
@@ -42,9 +43,8 @@
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
-### Unknown (2)
+### Unknown (1)
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 
