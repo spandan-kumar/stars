@@ -53,7 +53,7 @@
 - [eight-atulya/eye](https://github.com/eight-atulya/eye) - Part of BRAIN project
 - [spandan-kumar/knest](https://github.com/spandan-kumar/knest) - A Next.js application for meeting processing
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
 ### Unknown (3)
 
