@@ -3,10 +3,11 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 23 repositories across 11 languages*
+*Total: 24 repositories across 11 languages*
 
-### C (1)
+### C (2)
 
+- [psieg/Lightpack](https://github.com/psieg/Lightpack) - Lightpack and Prismatik open repository
 - [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer)
 
 ### C++ (1)
