@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 26 repositories across 12 languages*
+*Total: 27 repositories across 12 languages*
 
 ### C (2)
 
@@ -14,8 +14,9 @@
 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
-### C++ (1)
+### C++ (2)
 
+- [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable walking robot for everyone!
 - [CDFER/Captive-Portal-ESP32](https://github.com/CDFER/Captive-Portal-ESP32) - A ESP32 Captive Portal example that actually works...
 
 ### Dart (3)
