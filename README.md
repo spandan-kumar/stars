@@ -16,7 +16,7 @@
 
 ### C++ (2)
 
-- [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable walking robot for everyone!
+- [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 - [CDFER/Captive-Portal-ESP32](https://github.com/CDFER/Captive-Portal-ESP32) - A ESP32 Captive Portal example that actually works...
 
 ### Dart (3)
