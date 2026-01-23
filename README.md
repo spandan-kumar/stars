@@ -5,8 +5,9 @@
 
 *Total: 27 repositories across 12 languages*
 
-### C (2)
+### C (3)
 
+- [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 - [psieg/Lightpack](https://github.com/psieg/Lightpack) - Lightpack and Prismatik open repository
 - [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer)
 
@@ -14,9 +15,8 @@
 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
-### C++ (2)
+### C++ (1)
 
-- [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 - [CDFER/Captive-Portal-ESP32](https://github.com/CDFER/Captive-Portal-ESP32) - A ESP32 Captive Portal example that actually works...
 
 ### Dart (3)
