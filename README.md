@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 27 repositories across 12 languages*
+*Total: 28 repositories across 12 languages*
 
 ### C (3)
 
@@ -55,8 +55,9 @@
 
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 
-### TypeScript (4)
+### TypeScript (5)
 
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [eight-atulya/eye](https://github.com/eight-atulya/eye) - Part of BRAIN project
 - [spandan-kumar/knest](https://github.com/spandan-kumar/knest) - A Next.js application for meeting processing
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
