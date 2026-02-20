@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 28 repositories across 11 languages*
+*Total: 29 repositories across 11 languages*
 
 ### C (3)
 
@@ -11,8 +11,9 @@
 - [psieg/Lightpack](https://github.com/psieg/Lightpack) - Lightpack and Prismatik open repository
 - [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer)
 
-### C++ (1)
+### C++ (2)
 
+- [EDISON-SCIENCE-CORNER/DESKBUDDY-1.0](https://github.com/EDISON-SCIENCE-CORNER/DESKBUDDY-1.0) - A CUTE DESK PET BOT
 - [CDFER/Captive-Portal-ESP32](https://github.com/CDFER/Captive-Portal-ESP32) - A ESP32 Captive Portal example that actually works...
 
 ### Dart (3)
