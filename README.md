@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 29 repositories across 11 languages*
+*Total: 31 repositories across 12 languages*
 
 ### C (3)
 
@@ -43,6 +43,11 @@
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs. 
 - [ueabu/RaspberryPi-Spotify-Controller](https://github.com/ueabu/RaspberryPi-Spotify-Controller) - Python source code for Spotify playback controls from Raspberry Pi
 - [BlueNexus/Py2Pseudo](https://github.com/BlueNexus/Py2Pseudo) - A simple python to pseudocode converter.
+
+### Rust (2)
+
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [openagen/zeroclaw](https://github.com/openagen/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
 ### Shell (2)
 
