@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 31 repositories across 12 languages*
+*Total: 32 repositories across 12 languages*
 
 ### C (3)
 
@@ -58,8 +58,9 @@
 
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 
-### TypeScript (5)
+### TypeScript (6)
 
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [eight-atulya/eye](https://github.com/eight-atulya/eye) - Part of BRAIN project
 - [spandan-kumar/knest](https://github.com/spandan-kumar/knest) - A Next.js application for meeting processing
