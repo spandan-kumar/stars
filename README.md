@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 32 repositories across 12 languages*
+*Total: 33 repositories across 12 languages*
 
 ### C (3)
 
@@ -16,8 +16,9 @@
 - [EDISON-SCIENCE-CORNER/DESKBUDDY-1.0](https://github.com/EDISON-SCIENCE-CORNER/DESKBUDDY-1.0) - A CUTE DESK PET BOT
 - [CDFER/Captive-Portal-ESP32](https://github.com/CDFER/Captive-Portal-ESP32) - A ESP32 Captive Portal example that actually works...
 
-### Dart (3)
+### Dart (4)
 
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [architg-5501/Safescape](https://github.com/architg-5501/Safescape) - Safescape : a woman safety app
