@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 34 repositories across 12 languages*
+*Total: 36 repositories across 12 languages*
 
 ### C (3)
 
@@ -35,8 +35,9 @@
 
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 
-### Python (7)
+### Python (8)
 
+- [runpod/flash](https://github.com/runpod/flash) - Application framework for Multimodal Distributed inference & Orchestration. 
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [gensyn-ai/codeassist](https://github.com/gensyn-ai/codeassist) - A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
@@ -60,8 +61,9 @@
 - [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 
-### TypeScript (6)
+### TypeScript (7)
 
+- [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [eight-atulya/eye](https://github.com/eight-atulya/eye) - Part of BRAIN project
