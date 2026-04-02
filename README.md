@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 35 repositories across 12 languages*
+*Total: 36 repositories across 12 languages*
 
 ### C (3)
 
@@ -46,8 +46,9 @@
 - [ueabu/RaspberryPi-Spotify-Controller](https://github.com/ueabu/RaspberryPi-Spotify-Controller) - Python source code for Spotify playback controls from Raspberry Pi
 - [BlueNexus/Py2Pseudo](https://github.com/BlueNexus/Py2Pseudo) - A simple python to pseudocode converter.
 
-### Rust (1)
+### Rust (2)
 
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [openagen/zeroclaw](https://github.com/openagen/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
 ### Shell (2)
