@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 36 repositories across 12 languages*
+*Total: 37 repositories across 12 languages*
 
 ### C (3)
 
@@ -35,8 +35,9 @@
 
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 
-### Python (8)
+### Python (9)
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [runpod/flash](https://github.com/runpod/flash) - Application framework for Multimodal Distributed inference & Orchestration. 
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
