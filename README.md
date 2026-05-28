@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 40 repositories across 12 languages*
+*Total: 43 repositories across 12 languages*
 
 ### C (3)
 
@@ -47,14 +47,17 @@
 - [ueabu/RaspberryPi-Spotify-Controller](https://github.com/ueabu/RaspberryPi-Spotify-Controller) - Python source code for Spotify playback controls from Raspberry Pi
 - [BlueNexus/Py2Pseudo](https://github.com/BlueNexus/Py2Pseudo) - A simple python to pseudocode converter.
 
-### Rust (3)
+### Rust (5)
 
+- [atlassian-labs/mcp-compressor](https://github.com/atlassian-labs/mcp-compressor) - An MCP server wrapper for reducing tokens consumed by MCP tools.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [openagen/zeroclaw](https://github.com/openagen/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-### Shell (2)
+### Shell (3)
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
