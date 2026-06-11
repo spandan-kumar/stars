@@ -49,7 +49,7 @@
 
 ### Rust (5)
 
-- [atlassian-labs/mcp-compressor](https://github.com/atlassian-labs/mcp-compressor) - An MCP server wrapper for reducing tokens consumed by MCP tools.
+- [atlassian-labs/mcp-compressor](https://github.com/atlassian-labs/mcp-compressor) - An MCP server wrapper for reducing tokens consumed by MCP tools, available in typescript, python, and rust
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
@@ -75,7 +75,7 @@
 - [eight-atulya/eye](https://github.com/eight-atulya/eye) - Part of BRAIN project
 - [spandan-kumar/knest](https://github.com/spandan-kumar/knest) - A Next.js application for meeting processing
 - [windbase/windbase](https://github.com/windbase/windbase) - Visual builder for TailwindCSS. Collection of blocks and templates to choose from, with one-click export.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 
 ### Unknown (4)
 
