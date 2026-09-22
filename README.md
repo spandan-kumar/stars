@@ -38,7 +38,7 @@
 
 ### Python (11)
 
-- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - i. am. speed.
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
 - [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) - Express yourself in meetings (with memes, of course).
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [runpod/flash](https://github.com/runpod/flash) - Application framework for Multimodal Distributed inference & Orchestration. 
