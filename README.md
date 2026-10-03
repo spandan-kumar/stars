@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 51 repositories across 12 languages*
+*Total: 51 repositories across 13 languages*
 
 ### C (3)
 
@@ -26,6 +26,10 @@
 ### Go (1)
 
 - [zserge/pennybase](https://github.com/zserge/pennybase) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
+
+### HTML (1)
+
+- [liuzhao1225/codex-account-switcher](https://github.com/liuzhao1225/codex-account-switcher) - Native Codex account switcher by Zhao Liu (liuzhao1225) for macOS and Windows. Local accounts, weekly/5h usage, confirmed Desktop switching.
 
 ### JavaScript (2)
 
@@ -51,13 +55,12 @@
 - [ueabu/RaspberryPi-Spotify-Controller](https://github.com/ueabu/RaspberryPi-Spotify-Controller) - Python source code for Spotify playback controls from Raspberry Pi
 - [BlueNexus/Py2Pseudo](https://github.com/BlueNexus/Py2Pseudo) - A simple python to pseudocode converter.
 
-### Rust (5)
+### Rust (4)
 
 - [atlassian-labs/mcp-compressor](https://github.com/atlassian-labs/mcp-compressor) - An MCP server wrapper for reducing tokens consumed by MCP tools, available in typescript, python, and rust
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
-- [openagen/zeroclaw](https://github.com/openagen/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
 ### Shell (3)
 
