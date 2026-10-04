@@ -3,10 +3,11 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 51 repositories across 13 languages*
+*Total: 52 repositories across 13 languages*
 
-### C (3)
+### C (4)
 
+- [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) - Open source SDK to build Muse gadgets
 - [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 - [psieg/Lightpack](https://github.com/psieg/Lightpack) - Lightpack and Prismatik open repository
 - [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer)
