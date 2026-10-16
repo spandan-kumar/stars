@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 52 repositories across 13 languages*
+*Total: 53 repositories across 13 languages*
 
 ### C (4)
 
@@ -41,8 +41,9 @@
 
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 
-### Python (12)
+### Python (13)
 
+- [menloresearch/menlo-sdk](https://github.com/menloresearch/menlo-sdk)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
 - [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) - Express yourself in meetings (with memes, of course).
