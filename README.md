@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 53 repositories across 13 languages*
+*Total: 53 repositories across 12 languages*
 
 ### C (4)
 
@@ -27,10 +27,6 @@
 ### Go (1)
 
 - [zserge/pennybase](https://github.com/zserge/pennybase) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
-
-### HTML (1)
-
-- [liuzhao1225/codex-account-switcher](https://github.com/liuzhao1225/codex-account-switcher) - Native Codex account switcher by Zhao Liu (liuzhao1225) for macOS and Windows. Local accounts, weekly/5h usage, confirmed Desktop switching.
 
 ### JavaScript (2)
 
@@ -70,8 +66,9 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
-### Swift (3)
+### Swift (4)
 
+- [liuzhao1225/codex-account-switcher](https://github.com/liuzhao1225/codex-account-switcher) - Native Codex account switcher by Zhao Liu (liuzhao1225) for macOS and Windows. Local accounts, weekly/5h usage, confirmed Desktop switching.
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
