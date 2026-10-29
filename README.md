@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 53 repositories across 13 languages*
+*Total: 55 repositories across 14 languages*
 
 ### C (4)
 
@@ -11,6 +11,10 @@
 - [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 - [psieg/Lightpack](https://github.com/psieg/Lightpack) - Lightpack and Prismatik open repository
 - [StuckAtPrototype/Racer](https://github.com/StuckAtPrototype/Racer)
+
+### C# (1)
+
+- [RitwickVerma/TizenAmbilight](https://github.com/RitwickVerma/TizenAmbilight) - Real-frame ambilight for Samsung Tizen TVs — reads the TV's own decoded video plane, drives a WLED strip over UDP, no capture card
 
 ### C++ (2)
 
@@ -36,8 +40,9 @@
 
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 
-### Kotlin (1)
+### Kotlin (2)
 
+- [leonida92/wled-tv](https://github.com/leonida92/wled-tv) - Ultra-low-latency ambient bias lighting app for Google TV Streamer & Android TV, streaming real-time screen edge colors to WLED over UDP DRGB. **AI-Assisted**
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ### Python (13)
