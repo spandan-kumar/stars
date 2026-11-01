@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 55 repositories across 14 languages*
+*Total: 56 repositories across 14 languages*
 
 ### C (4)
 
@@ -40,8 +40,9 @@
 
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 
-### Kotlin (2)
+### Kotlin (3)
 
+- [spandan-kumar/PageDrop](https://github.com/spandan-kumar/PageDrop) - The store closed. The Kindle didn't. Find books on your phone and send them over Wi-Fi to old, jailbroken Kindles running KOReader.
 - [leonida92/wled-tv](https://github.com/leonida92/wled-tv) - Ultra-low-latency ambient bias lighting app for Google TV Streamer & Android TV, streaming real-time screen edge colors to WLED over UDP DRGB. **AI-Assisted**
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
