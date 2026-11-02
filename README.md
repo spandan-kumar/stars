@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 56 repositories across 14 languages*
+*Total: 57 repositories across 14 languages*
 
 ### C (4)
 
@@ -27,8 +27,9 @@
 - [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
 - [architg-5501/Safescape](https://github.com/architg-5501/Safescape) - Safescape : a woman safety app
 
-### Go (1)
+### Go (2)
 
+- [unrealJune/kindshare](https://github.com/unrealJune/kindshare) - Receive files from Android Quick Share on a jailbroken Kindle - no cable, no router, nothing on the phone. Includes a SoftAP mode and a from-scratch Go implementation of the Nearby Share protocol.
 - [zserge/pennybase](https://github.com/zserge/pennybase) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
 
 ### JavaScript (2)
