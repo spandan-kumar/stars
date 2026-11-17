@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 58 repositories across 14 languages*
+*Total: 59 repositories across 14 languages*
 
 ### C (4)
 
@@ -27,8 +27,9 @@
 - [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
 - [architg-5501/Safescape](https://github.com/architg-5501/Safescape) - Safescape : a woman safety app
 
-### Go (2)
+### Go (3)
 
+- [net-merge/net-merge](https://github.com/net-merge/net-merge) - Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers
 - [unrealJune/kindshare](https://github.com/unrealJune/kindshare) - Receive files from Android Quick Share on a jailbroken Kindle - no cable, no router, nothing on the phone. Includes a SoftAP mode and a from-scratch Go implementation of the Nearby Share protocol.
 - [zserge/pennybase](https://github.com/zserge/pennybase) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
 
@@ -81,7 +82,7 @@
 - [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.
 - [liuzhao1225/codex-account-switcher](https://github.com/liuzhao1225/codex-account-switcher) - Native Codex account switcher by Zhao Liu (liuzhao1225) for macOS and Windows. Local accounts, weekly/5h usage, confirmed Desktop switching.
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
-- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
+- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 
 ### TypeScript (11)
