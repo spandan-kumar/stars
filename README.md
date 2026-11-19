@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 59 repositories across 14 languages*
+*Total: 60 repositories across 14 languages*
 
 ### C (4)
 
@@ -48,8 +48,9 @@
 - [leonida92/wled-tv](https://github.com/leonida92/wled-tv) - Ultra-low-latency ambient bias lighting app for Google TV Streamer & Android TV, streaming real-time screen edge colors to WLED over UDP DRGB. **AI-Assisted**
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
-### Python (13)
+### Python (14)
 
+- [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.
 - [menloresearch/menlo-sdk](https://github.com/menloresearch/menlo-sdk)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
