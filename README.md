@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 60 repositories across 14 languages*
+*Total: 63 repositories across 14 languages*
 
 ### C (4)
 
@@ -27,8 +27,9 @@
 - [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
 - [architg-5501/Safescape](https://github.com/architg-5501/Safescape) - Safescape : a woman safety app
 
-### Go (3)
+### Go (4)
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [net-merge/net-merge](https://github.com/net-merge/net-merge) - Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers
 - [unrealJune/kindshare](https://github.com/unrealJune/kindshare) - Receive files from Android Quick Share on a jailbroken Kindle - no cable, no router, nothing on the phone. Includes a SoftAP mode and a from-scratch Go implementation of the Nearby Share protocol.
 - [zserge/pennybase](https://github.com/zserge/pennybase) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
@@ -48,8 +49,10 @@
 - [leonida92/wled-tv](https://github.com/leonida92/wled-tv) - Ultra-low-latency ambient bias lighting app for Google TV Streamer & Android TV, streaming real-time screen edge colors to WLED over UDP DRGB. **AI-Assisted**
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
-### Python (13)
+### Python (15)
 
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+- [sanidhyy/unlock-airtel-router](https://github.com/sanidhyy/unlock-airtel-router) - Restore disabled and hidden web UI settings on Airtel Zyxel ONT routers.
 - [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.
 - [menloresearch/menlo-sdk](https://github.com/menloresearch/menlo-sdk)
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
